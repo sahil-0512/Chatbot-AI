@@ -1,1 +1,2 @@
 #### My Chatbot AI
+Artificial Intelligence (AI) is a branch of computer science focused on creating systems capable of performing tasks that typically require human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making.  Unlike traditional software that follows explicit, step-by-step instructions, AI systems analyze vast amounts of data to identify patterns and make predictions or decisions with minimal human intervention.
